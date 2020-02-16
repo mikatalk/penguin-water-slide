@@ -3,8 +3,6 @@
 // library loaded via traditional script tag,
 // and already available in the window
 
-// load extensions 
-import './draw-extensions'
 // link to global library
 export const b2World = window['b2World']
 export const b2_tensileParticle = window['b2_tensileParticle']
