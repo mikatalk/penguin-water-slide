@@ -54,7 +54,7 @@ body {
     left: 0.5rem;
     border: 2px solid #ffffff;
     border-radius: 5px;
-    background: #64cee9;
+    background: #4c73b4;
     color: white;
     font-family: monospace;
     font-weight: 100;
