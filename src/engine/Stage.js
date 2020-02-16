@@ -37,8 +37,8 @@ export default class Stage {
     liquidColor: [60, 110, 240, 255],
     numberOfPenguins: 6,
     spawnAreaRadius: 4,
-    // debugPhysics: false,
-    debugPhysics: true,
+    debugPhysics: false,
+    // debugPhysics: true,
     velocityIterations: 1,
     positionIterations: 1,
   }

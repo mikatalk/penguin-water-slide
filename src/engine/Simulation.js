@@ -63,7 +63,7 @@ export default class Simulation {
   }        
   makePengiuns (numberOfPenguins) {
     const penguinVertices = penguin.fixtures[0].vertices
-    const scale = 0.01
+    const scale = 0.014
     let bd = new b2BodyDef()
     bd.type = b2_dynamicBody
     bd.sleep = false
